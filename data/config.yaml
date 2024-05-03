@@ -1,0 +1,13 @@
+path: "/content/gdrive/My Drive/Rubik's Solver"
+train: "dataset/images/train"
+val: "dataset/images/validation"
+
+names:
+    0: Green
+    1: Red
+    2: White
+    3: Blue
+    4: Orange
+    5: Yellow
+    6: Cube
+
